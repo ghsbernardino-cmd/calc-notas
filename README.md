@@ -15,4 +15,4 @@ Um projeto em Python desenvolvido com foco em testes automatizados utilizando a 
 - **Git & GitHub** 
 
 
-Desenvolvido por [Gabriel Bernardino](https://github.com) 💻
+Desenvolvido por [Gabriel Bernardino, Lucas Motter](https://github.com) 💻
